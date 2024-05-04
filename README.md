@@ -2,10 +2,6 @@
 
 경북대학교 KDT(Korea Digital Training) 빅데이터 전문가 양성과정 5기 : ML(Machine Learning) 3팀입니다
 
-임소영 : [깃허브 링크](https://github.com/YimSoYoung1001)  
-박희진 : [깃허브 링크](https://github.com/ParkHeeJin00)  
-이승민 : [깃허브 링크](https://github.com/winmin94)  
-명노아 : [깃허브 링크](https://github.com/noah2397)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -32,27 +28,6 @@
 
 <hr/>
 
-### KDT(Korea Digital Training)-ML(Machine Learning)
-
-<hr/>
-
-#### 사용한 데이터 사이트(수정 전)
-
-1. [KBO 홈페이지](https://www.koreabaseball.com/Default.aspx)
-2. [Daum 스포츠-야구](https://sports.daum.net/record/kbo/team?season=2023)
-3. [구글공유 PPT](https://docs.google.com/presentation/d/1iw8iwN1F_FjeJlKNg46WBwOhtqjZGTJt9zUaESa8WAY/edit)
-
-<hr/>
-
-###### 주제 : 야구 통계 분석
-
-- 목차
-
-* 1. 배경
-* 2. (임소영)
-* 3. (박희진)
-* 4. (명노아)
-* 5. (이승민)
 
 ###### 역할 분담
 
@@ -124,37 +99,3 @@
 - 셋 중 성능이 좋은 '모델2'를 최종 모델로 저장함
 </details>
 
-
-
-</hr>
-
-<details>
-  <summary>
-    명노아(소주제)
-  </summary>
-
-</details>
-
-</hr>
-
-<details>
-  <summary>
-    이승민(소주제)
-  </summary>
-
-</details>
-
-</hr>
-
-<details>
-  <summary>
-    박희진(소주제)
-  </summary>
-
-</details>
-<hr/>
-
-###### 출처/데이터
-
-| 관련 자료명 | URL |
-| :---------: | --- |
