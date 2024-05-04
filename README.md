@@ -13,22 +13,6 @@
 
 <hr/>
 
-### 개발환경
-
-| 패키지 이름 | 버전   | 사용 커맨드(Version command) |
-| ----------- | ------ | ---------------------------- |
-| Python      | 3.8.18 | python --version             |
-| jupyter     | 1.0.0  | pip show jupyter             |
-| ipython     | 8.12.2 | pip show ipython             |
-| notebook    | 7.0.6  | pip show notebook            |
-| numpy       | 1.24.3 | pip show numpy               |
-| pandas      | 2.0.3  | pip show pandas              |
-| matplotlib  | 3.7.2  | pip show matplotlib          |
-| statsmodels | 0.14.0 | pip show statsmodels         |
-
-<hr/>
-
-
 ### 역할 분담
 
 |          역할 | 참여인원                       |
